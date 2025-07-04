@@ -1,7 +1,7 @@
 // Steps to go through the project
 // 1 Deposit some amount of money
 // 2 Determine the number of lines to bet on
-// 3 ColSlect a bet amount
+// 3 Collect a bet amount
 // 4 Spin the slot machine
 // 5 check the user won or lost
 // 6 Give the user their winning or take amount if lost
